@@ -1,0 +1,6 @@
+Ticker,Quantity,Price_USD,Total_Value_USD
+AAPL,10.0,180.0,1800.0
+TSLA,5.0,250.0,1250.0
+NVDA,15.0,120.0,1800.0
+
+TOTAL,,,4850.0
